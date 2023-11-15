@@ -38,7 +38,7 @@
     "vue": "^2.5.21",
     "vue-resource": "^1.5.1",
     "vuejs-logger": "1.5.3",
-    "ws": ">=6.2.2",
+    "ws": ">=8.14.2",
     "y18n": ">=4.0.1"
   },
   "devDependencies": {
@@ -70,7 +70,7 @@
     "url-parse": ">=1.5.2",
     "vue-loader-v16": "^16.0.0-beta.5.4",
     "vue-template-compiler": "^2.5.21",
-    "ws": ">=6.2.2",
+    "ws": ">=8.14.2",
     "y18n": ">=4.0.1"
   },
   "eslintConfig": {
